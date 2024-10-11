@@ -2,7 +2,7 @@
 
 Depends on [lunasvg](https://github.com/sammycage/lunasvg).
 
-More of a proof-of-concept than a working product. Clunky as hell.
+More of a proof-of-concept than a working product. Clunky as hell. Tested only on Windows.
 
 What possibly could be done more with enough effort:
  - Return image data using byondapi instead of saving into a local folder.
