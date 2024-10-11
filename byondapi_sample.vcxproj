@@ -177,9 +177,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="byondapi\byondapi_cpp_wrappers.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
